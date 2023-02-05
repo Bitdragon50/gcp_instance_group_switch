@@ -1,0 +1,9 @@
+service_account = "653355568510-compute@developer.gserviceaccount.com"
+region          = "europe-west2"
+zone1           = "europe-west2-a"
+zone2           = "europe-west2-b"
+name_prefix     = "instance_group_switch"
+state_bucket    = "kubernetes-terraform-state-bucket"
+target_size     = 1
+project         = "kubernetes-the-hardway-357008"
+time_zone       = "GB"
